@@ -1,0 +1,58 @@
+
+Programma Van Eisen/Software Requirement Specification Document
+				Rob Schoenmakers
+				Mark Grah
+				Siong 
+
+
+
+
+Inleiding
+
+Na onderzoek en analyse van de op te bouwen Sovion applicatie (vanaf hier: app.) is besloten om deze in meerdere fases te bouwen. Deze app. is een soort dashboard dat ondernemers gaat helpen om ziekteverzuim te monitoren en waar mogelijk terug te dringen. Dit document bevat het Programma van Eisen over de eerste fase van de Sovion app. gericht op het verzamelen van de benodigde data om de app te kunnen bouwen. 
+
+Doelstelling
+
+Het doel van de eerste fase is als volgt: 
+- opbouwen van een verzameling van benodigde data;
+- analyseren van de data;
+- inzicht krijgen in overige benodigde zaken om de app te kunnen bouwen. 
+In dit document gaan we in op het Programma van Eisen van de stakeholders van Sovion en hun behoeften. Het gaat om:
+- de “web enquête applicatie system”, 
+- de interfaces van het systeem
+- wat het systeem gaat opleveren en 
+- hoe het te gebruiken. 
+De stakeholders en de applicatieontwikkelaars zullen deze documenten gebruiken om een gedetailleerd overzicht van de “web onderzoek applicatie system” te krijgen, over welke parameters en doelen het gaat. 
+Ook gaan we in dit document  op de projectdoelen, de userinterface, de hardware en de software eisen. Verder geven we een inzicht hoe de stakeholders, de gebruikers en het ontwikkelteam voor zich zien hoe de app gaat functioneren. Tenslotte helpt dit overzichtsdocument de ontwikkelaars en stakeholders helpen om een gebruiksvriendelijke app te maken.  
+
+Scope
+
+•	Deze “web onderzoek applicatie system” zal in real time web app onderzoek draaien via het internet om data te verzamelen voor verder gebruik in de opbouw van de “Dashboard applicatie system” van Sovion. 
+•	De “web onderzoek applicatie system” zal via een vragenlijst de input van de gebruikers verzamelen en naar de motor-app opsturen. 
+•	De “web onderzoek applicatie” zal ons helpen de gehele Sovion dashboard app te bouwen.
+•	De output van de verzameling data wordt vergelijkbaar met de database info van het CBS.
+•	De output data van de app zal als advies opgeleverd worden in een document(.pdf, of word document) 
+ 
+System Overview
+
+References
+
+Definitions, Acronyms, and Abbreviations 
+
+Use Cases
+
+Functionele Eisen / Functional Requirements
+Deze sectie gaat over de contouren van de Use Cases van de applicatie. 
+1.	Non-functional requirements
+2.	
+
+User Interfaces: 
+
+The user interface for the software shall be compatible to any browser such as internet explorer, mozilla
+The user interface shall be implemented using tool or software package like Java Applet , Python and ….
+
+Hardware interfaces: 
+Since the application must run over the internet, all the hardware shall require to connect internet will be hardware interface  for the system. 
+Modem, WAN-LAN-Ethernet Cross-cable and zo..
+
+
